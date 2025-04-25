@@ -8,3 +8,4 @@ Maybe some day I will do a nix scrpipt.
 In this DOtfiels will be a configuration for my two monitors and laptop.  
 
 
+piq, uptea.

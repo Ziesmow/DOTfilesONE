@@ -1,0 +1,11 @@
+#! /bin/bash
+echo "I'm a teapood update";
+echo "Starting full update ...";
+sleep 5s;
+sudo dnf update --assumeyes;
+sudo dnf system-upgrade --assumeyes;
+sudo dnf upgrade --assumeyes;
+sudo dnf clean all;
+flatpak update -y;
+echo "tea update made by teapod made by Zie'smow.";
+echo "418 in my heart."
