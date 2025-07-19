@@ -1,3 +1,6 @@
 [submodule "löwe"]
 	path = löwe
 	url = https://github.com/Ziesmow/lowe
+[submodule "nvimdot"]
+	path = nvimdot
+	url = https://github.com/Ziesmow/nvimdot
